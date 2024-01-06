@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+numpy
+Pillow
+gdown
+Scipy
+matplotlib
+tensorflow==2.11.0
+ipykernel
+-e .
